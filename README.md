@@ -49,4 +49,6 @@ if using python2:
 `pip install --upgrade git+https://github.com/vmware/vsphere-automation-sdk-python.git`
 
 
+# Windows Ansible modules
 
+[Windows Ansible modules](https://docs.ansible.com/ansible/2.9/modules/list_of_windows_modules.html#windows-modules "Ansible docs")
