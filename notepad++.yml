@@ -1,0 +1,6 @@
+- name: Install notepadplusplus
+  win_chocolatey:
+    name: notepadplusplus
+    version: '8.4.5'
+    source: http://internal/odata/repo
+    state: present
